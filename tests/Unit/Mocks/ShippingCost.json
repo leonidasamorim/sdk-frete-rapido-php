@@ -1,0 +1,73 @@
+{
+  "dispatchers": [
+    {
+      "id": "64a47ef88bc2b3d40086ded8",
+      "request_id": "64a47ef88bc2b3d40086ded7",
+      "registered_number_shipper": "82193244000210",
+      "registered_number_dispatcher": "82193244000210",
+      "zipcode_origin": 80220030,
+      "offers": [
+        {
+          "offer": 1,
+          "table_reference": "6479e0cec786333ffdf53747",
+          "simulation_type": 0,
+          "carrier": {
+            "name": "LOGGI",
+            "registered_number": "18277493000177",
+            "state_inscription": "ISENTO",
+            "logo": "https://s3.amazonaws.com/public.prod.freterapido.uploads/transportadora/foto-perfil/18277493000177.PNG",
+            "reference": 743,
+            "company_name": "LOGGI TECNOLOGIA LTDA"
+          },
+          "service": "Loggi Express",
+          "delivery_time": {
+            "days": 1,
+            "estimated_date": "2023-07-05"
+          },
+          "expiration": "2023-08-03T20:20:08.092104958Z",
+          "cost_price": 12.49,
+          "final_price": 12.49,
+          "weights": {
+            "real": 1.5,
+            "cubed": 1.386,
+            "used": 1.5
+          },
+          "original_delivery_time": {
+            "days": 1,
+            "estimated_date": "2023-07-05"
+          }
+        },
+        {
+          "offer": 2,
+          "table_reference": "6491b2603096e09a8a99e372",
+          "simulation_type": 0,
+          "carrier": {
+            "name": "TOTAL EXPRESS",
+            "registered_number": "73939449000193",
+            "state_inscription": "206.214.714.111",
+            "logo": "https://s3.amazonaws.com/public.prod.freterapido.uploads/transportadora/foto-perfil/73939449000193.png",
+            "reference": 693,
+            "company_name": "TEX COURIER LTDA."
+          },
+          "service": "Expresso",
+          "delivery_time": {
+            "days": 3,
+            "estimated_date": "2023-07-07"
+          },
+          "expiration": "2023-08-03T20:20:08.092109003Z",
+          "cost_price": 16.36,
+          "final_price": 16.36,
+          "weights": {
+            "real": 1.5,
+            "cubed": 1.386,
+            "used": 1.5
+          },
+          "original_delivery_time": {
+            "days": 3,
+            "estimated_date": "2023-07-07"
+          }
+        }
+      ]
+    }
+  ]
+}
